@@ -537,13 +537,21 @@ a {
 	opacity:1;
 }
 
-#aboutMeDescription {
+#intro #aboutMeDescription{
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 1000px;
+}
+
+/*#aboutMeDescription {
 	margin:auto auto;
 	padding:2.5px 30px;
 	width:80%;
 	text-align:center;
 	border-radius:20px;
-}
+}*/
 
 /* -------------------- ---------------------- -------------------- */
 /* -------------------- Engineering Experience -------------------- */
