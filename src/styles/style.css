@@ -411,7 +411,7 @@ a {
 	background:-webkit-linear-gradient(141deg,rgba(0,0,0,0.95),rgba(0,0,0,0.4));
 	background:linear-gradient(141deg,rgba(0,0,0,0.95),rgba(0,0,0,0.4));
 }
-#tint1, #tine2, #tint3, #tint4 {
+#tint1, #tint2, #tint3, #tint4 {
 	position:absolute;
 	height:100%;
 	width:100%;
