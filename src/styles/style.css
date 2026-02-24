@@ -548,16 +548,16 @@ a {
 /* -------------------- ---------------------- -------------------- */
 /* -------------------- Engineering Experience -------------------- */
 /* -------------------- ---------------------- -------------------- */
-#job_background_ATL {
-	background:url(img/work/ATL.png) no-repeat center center;
+#job_background_hackahealth {
+	background:url(img/work/hackahealth.png) no-repeat center center;
 }
-#job_background_ASL {
-	background:url(img/work/ASL.png) no-repeat center center;
+#job_background_polysports {
+	background:url(img/work/polysports.png) no-repeat center center;
 }
 #job_background_PTW {
 	background:url(img/work/PTW.png) no-repeat center center;
 }
-#job_background_ATL, #job_background_ASL, #job_background_PTW {
+#job_background_hackahealth, #job_background_polysports, #job_background_PTW {
 	height:100%;
 	width:100%;
 	background-size:contain;
@@ -610,8 +610,8 @@ a {
 /* -------------------- ------------------ -------------------- */
 /* -------------------- Project Experience -------------------- */
 /* -------------------- ------------------ -------------------- */
-#project_background_Hyperloop {
-	background:url(img/projects/Hyperloop.png) no-repeat center center;
+#project_background_epfl {
+	background:url(img/projects/epfl.png) no-repeat center center;
 }
 #project_background_LIT {
 	background:url(img/projects/LIT.png) no-repeat center center;
@@ -619,47 +619,7 @@ a {
 #project_background_THOR {
 	background:url(img/projects/THOR.jpg) no-repeat center center;
 }
-#project_background_Micromouse {
-	background:url(img/projects/Micromouse.png) no-repeat center center;
-}
-#project_background_STAR {
-	background:url(img/projects/STAR.png) no-repeat center center;
-}
-#project_background_Hackathon {
-	background:url(img/projects/Hackathon.png) no-repeat center center;
-}
-#project_background_Hexcopter {
-	background:url(img/projects/Hexcopter.png) no-repeat center center;
-}
-#project_background_MATLAB {
-	background:url(img/projects/MATLAB.png) no-repeat center center;
-}
-#project_background_Golf {
-	background:url(img/projects/Golf.png) no-repeat center center;
-}
-#project_background_RASCAL {
-	background:url(img/projects/RASCAL.png) no-repeat center center;
-}
-#project_background_Canoe {
-	background:url(img/projects/Canoe.jpg) no-repeat center center;
-}
-#project_background_Mead {
-	background:url(img/projects/Mead.jpg) no-repeat center center;
-}
-#project_background_Mapping {
-	background:url(img/projects/Mapping.png) no-repeat center center;
-}
-#project_background_Swerve {
-	background:white url(img/projects/SwervePlatform.png) no-repeat center center;
-}
-#project_background_Soccer {
-	background:white url(img/projects/Soccer.png) no-repeat center center;
-}
-#project_background_Hyperloop, #project_background_LIT, #project_background_THOR, 
-#project_background_Micromouse, #project_background_STAR, #project_background_Hackathon, 
-#project_background_Hexcopter, #project_background_MATLAB, #project_background_Golf, 
-#project_background_RASCAL, #project_background_Canoe, #project_background_Mead, 
-#project_background_Mapping, #project_background_Swerve, #project_background_Soccer {
+#project_background_epfl, #project_background_LIT, #project_background_THOR {
 	height:100%;
 	width:100%;
 	background-size:cover;
