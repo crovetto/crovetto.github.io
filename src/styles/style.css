@@ -487,7 +487,7 @@ a {
 	width:100%;
 	background-size:cover;
 }
-#platform_background_micromouse, #platform_background_swerve, #platform_background_auto_flight, 
+#platform_background_hikane, #platform_background_micromouse, #platform_background_swerve, #platform_background_auto_flight, 
 #platform_background_auto_boat {
 	background-size:contain;
 }
